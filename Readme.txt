@@ -1,6 +1,4 @@
-Thanks for downloading this template!
+# Tawi Tech Solutions
 
-Template Name: Restaurantly
-Template URL: https://bootstrapmade.com/restaurantly-restaurant-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+## deployment
+[deploy](https://nanda8106.github.io/Tawi-Tech/index.html)
